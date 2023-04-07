@@ -1,6 +1,6 @@
 {
-  "name": "driver.js",
-  "version": "0.9.8",
+  "name": "turoornps",
+  "version": "0.0.2",
   "description": "A light-weight, no-dependency, vanilla JavaScript library to drive the user's focus across the page",
   "main": "dist/driver.min.js",
   "types": "types/index.d.ts",
@@ -11,10 +11,10 @@
     "deploy-demo": "NODE_DEBUG=gh-pages gh-pages -d dist/demo"
   },
   "bugs": {
-    "url": "https://github.com/kamranahmedse/driver.js/issues"
+    "url": "https://github.com/ZXHHHH123/driver.js/issues"
   },
-  "homepage": "https://github.com/kamranahmedse/driver.js#readme",
-  "repository": "https://github.com/kamranahmedse/driver.js",
+  "homepage": "https://github.com/ZXHHHH123/driver.js.js#readme",
+  "repository": "https://github.com/ZXHHHH123/driver.js.js",
   "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
   "license": "MIT",
   "devDependencies": {

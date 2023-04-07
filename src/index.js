@@ -71,6 +71,7 @@ export default class Driver {
    * @public
    */
   getSteps() {
+    console.log('getSteps')
     return this.steps;
   }
 
