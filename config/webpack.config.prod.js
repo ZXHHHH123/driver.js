@@ -5,7 +5,7 @@ const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 module.exports = {
   mode: 'production',
   entry: [
-    './src/driver.scss',
+    // './src/driver.scss',
     './src/index.js',
   ],
   output: {

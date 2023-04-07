@@ -43,8 +43,8 @@ Driver.js is written in Vanilla JS, has zero dependencies and is highly customiz
 You can install it using `yarn` or `npm`, whatever you prefer.
 
 ```bash
-yarn add driver.js
-npm install driver.js
+yarn add autoornps
+npm install autoornps
 ```
 Or include it using CDN. If you want a specific version, put it as `driver.js@0.5` in the name
 ```html

@@ -60,6 +60,7 @@ export default class Driver {
     this.moveNext = this.moveNext.bind(this);
     this.movePrevious = this.movePrevious.bind(this);
     this.preventMove = this.preventMove.bind(this);
+    this.test = this.test.bind(this);
 
     // Event bindings
     this.bind();
@@ -71,7 +72,7 @@ export default class Driver {
    * @public
    */
   getSteps() {
-    console.log('getSteps')
+    console.log('getSteps');
     return this.steps;
   }
 

@@ -1,6 +1,6 @@
 {
   "name": "turoornps",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A light-weight, no-dependency, vanilla JavaScript library to drive the user's focus across the page",
   "main": "dist/driver.min.js",
   "types": "types/index.d.ts",
@@ -13,8 +13,8 @@
   "bugs": {
     "url": "https://github.com/ZXHHHH123/driver.js/issues"
   },
-  "homepage": "https://github.com/ZXHHHH123/driver.js.js#readme",
-  "repository": "https://github.com/ZXHHHH123/driver.js.js",
+  "homepage": "https://github.com/ZXHHHH123/driver.js#readme",
+  "repository": "https://github.com/ZXHHHH123/driver.js",
   "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -37,7 +37,7 @@
     "file-loader": "^4.0.0",
     "gh-pages": "^2.0.1",
     "html-webpack-plugin": "^3.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^8.0.0",
     "opn": "^6.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
